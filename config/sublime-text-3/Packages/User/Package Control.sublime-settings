@@ -1,0 +1,24 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"CSSLint",
+		"DocBlockr",
+		"Emmet",
+		"GitGutter",
+		"HTMLBeautify",
+		"JSLint",
+		"Material Theme",
+		"Materialize",
+		"Package Control",
+		"Phpcs",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"sublimelint",
+	],
+}
