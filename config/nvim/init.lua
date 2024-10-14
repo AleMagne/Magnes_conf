@@ -2,3 +2,4 @@
 
 require("option")
 require("plugins")
+require("function")
